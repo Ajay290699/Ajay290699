@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web application**
 
-- 💬 Ask me about **Java,Springboot,Microservice,API**
+- 💬 Ask me about **Java,Spring,Springboot,API,Microservice,Angular**
 
 - 📫 How to reach me **ajayc9838@gmail.com**
 
