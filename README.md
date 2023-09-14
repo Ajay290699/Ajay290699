@@ -1,6 +1,6 @@
  <img align="right" src="https://user-images.githubusercontent.com/99037494/226809341-e38457ff-6291-4e19-9e20-b96c70632264.png" alt="#">
 <h1 align="center">Hi 👋, I'm Ajay Chavan</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay290699&label=Profile%20views&color=0e75b6&style=flat" alt="ajay290699" /> </p>
 
